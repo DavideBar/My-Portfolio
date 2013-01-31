@@ -12,9 +12,8 @@ import Work.*;
  * Este trabalho implementa uma aplicação para gerir a repartição dos proveitos
  * de festivais de verão entre Artistas e seus Agentes
  *
- * @author Davide Barruncho 21104379
- * @author Yasmine Chede 21104555
- * @author Marta Dias 21103140
+ * @author Davide Barruncho
+ * @author Yasmine Chede
  */
 public class TrabalhoLP2 {
 

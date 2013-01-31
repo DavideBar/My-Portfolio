@@ -9,9 +9,8 @@ import interfaces.IArtista;
 import java.text.DecimalFormat;
 
 /**
- * @author Davide Barruncho 21104379
- * @author Yasmine Chede 21104555
- * @author Marta Dias 21103140
+ * @author Davide Barruncho
+ * @author Yasmine Chede
  */
 public class Artista extends Pessoa implements IArtista {
 

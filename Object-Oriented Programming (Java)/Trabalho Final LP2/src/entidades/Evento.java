@@ -12,9 +12,8 @@ import java.util.Arrays;
 import java.util.Date;
 
 /**
- * @author Davide Barruncho 21104379
- * @author Yasmine Chede 21104555
- * @author Marta Dias 21103140
+ * @author Davide Barruncho
+ * @author Yasmine Chede
  */
 public class Evento implements IEvento, Serializable {
 

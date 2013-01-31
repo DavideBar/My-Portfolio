@@ -10,9 +10,8 @@ import java.text.DecimalFormat;
 import java.util.Arrays;
 
 /**
- * @author Davide Barruncho 21104379
- * @author Yasmine Chede 21104555
- * @author Marta Dias 21103140
+ * @author Davide Barruncho
+ * @author Yasmine Chede
  */
 public class Reparticao implements IReparticao, Serializable {
 
