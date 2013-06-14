@@ -5,4 +5,4 @@ Work done in QTCreate 4.8.1. Maze created with holes int the floor + glass cover
 
 Work authors:
 
-Davide Barruncho and Andre Ribeiro
+Davide Barruncho and Andre Ribeiro 18.87
